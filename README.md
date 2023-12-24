@@ -7,4 +7,4 @@ i'm currently learning gdscript (the godot programming language)
 you can reach me on:
 - discord: sushiwt#0684
 - tumblr: sushiwt
-- email: sushiwth@gmail.com
+- email: mail@whytee.xyz
