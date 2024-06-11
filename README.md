@@ -4,7 +4,7 @@ I make video games and websites (I also do drawing and 3d modelling as well)
 
 I'm currently learning GML and Python.
 
-[![sushiwt's GitHub stats](https://github-readme-stats.vercel.app/api?username=sushiwt)](https://github.com/anuraghazra/github-readme-stats)
+[![sushiwt's GitHub stats](https://github-readme-stats.vercel.app/api?username=sushiwt&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Programming languages i use:
 - Python
