@@ -1,23 +1,25 @@
 # hello! i'm sushiwt, aka sushi.
 
-i'm interested in making games and websites (i also do drawing and 3d modelling as well)
+I make video games and websites (I also do drawing and 3d modelling as well)
 
-programming languages i use:
-- python
-- gdscript
-- javascript (including html and css)
-- clickteam fusion visual scripting (not sure if i should count this one)
-- game maker language
+I'm currently learning GML and Python.
 
-programs i use for coding:
-- vscode (for webdev and python)
-- godot
-- clickteam fusion 2.5+
-- game maker studio 2
+[![sushiwt's GitHub stats](https://github-readme-stats.vercel.app/api?username=sushiwt)](https://github.com/anuraghazra/github-readme-stats)
 
-i'm currently learning gml and python.
+## Programming languages i use:
+- Python
+- GDScript
+- Javascript (including html and css)
+- Clickteam Fusion Visual Scripting (not sure if i should count this one)
+- GML
 
-you can reach me on:
-- discord: sushiwt#0684
-- tumblr: sushiwt
-- email: mail@whytee.xyz
+## Programs i use for coding:
+- VSCode (for webdev and python)
+- Godot
+- Clickteam Fusion 2.5+
+- GameMaker Studio 2
+
+## You can reach me on:
+- Discord: sushiwt#0684
+- Tumblr: sushiwt
+- Email: mail@whytee.xyz
