@@ -2,21 +2,15 @@
 
 I make video games and websites (I also do drawing and 3d modelling as well)
 
-I'm currently learning the GameMaker Language and Python.
+I'm currently learning the GameMaker Language and Java
 
 [![sushiwt's GitHub stats](https://github-readme-stats.vercel.app/api?username=sushiwt&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-## Programming languages i use:
-- Python
-- GDScript
-- Javascript (including html and css)
-- Clickteam Fusion Visual Scripting (not sure if i should count this one)
-- GML
+I mainly use Python and JS, but I also know GDScript and GML.
 
-## Programs i use for coding:
+## IDEs I use:
 - VSCode (for webdev and python)
 - Godot
-- Clickteam Fusion 2.5+
 - GameMaker Studio 2
 
 ## You can reach me on:
