@@ -6,7 +6,7 @@ I'm currently learning Java.
 
 [![sushiwt's GitHub stats](https://github-readme-stats.vercel.app/api?username=sushiwt&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-I mainly use Python and Java, but I also know Lua, GDScript and GML for game development, and JavaScript (in tandem with HTML and CSS) for web development.
+I mainly use Python and Java, but I also use Lua, GDScript, and GML for game development as well as JavaScript (in tandem with HTML and CSS) for web development.
 
 ## IDEs I use:
 - VSCode (for webdev and python)
